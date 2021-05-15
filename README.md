@@ -7,4 +7,4 @@ The script asks you to input a token to login with. After you enter it, the prog
 Note: Only user accounts work. If you try to use a Bot token or an invalid user token, https://discord.com/login will show up again. If that happens, just restart the programm and try it with another token.
 
 ## Credits
-I have done much work by myself, but thanks to `furas` on stackoverflow who helped me figure out why the localStorage isn't there from the beginning. Question [here](https://stackoverflow.com/questions/67525317/chrome-is-unable-to-get-localstorage).
+I have done much work by myself, but thanks to [furas](https://stackoverflow.com/users/1832058/furas) on stackoverflow who helped me figure out why the localStorage isn't there from the beginning. Question [here](https://stackoverflow.com/questions/67525317/chrome-is-unable-to-get-localstorage).
