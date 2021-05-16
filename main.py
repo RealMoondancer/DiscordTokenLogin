@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 
+print("\n\nMade by Ditin2/Moondancer with help by furas.\n\n")
 
 def add_token(driver, url, token='abc'):
     # JavaScript code to recreate the localStorage object, has to be executed after each reload on discord's sites.
